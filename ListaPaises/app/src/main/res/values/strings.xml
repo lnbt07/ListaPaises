@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Paises</string>
+
+    <string name="bonaire">Bonaire</string>
+    <string name="colombia">Colombia</string>
+    <string name="costarica">Costa Rica</string>
+    <string name="elsalvador">El Salvador</string>
+    <string name="estadosunidos">Estados Unidos</string>
+    <string name="ilhascaiman">Ilhas Caiman</string>
+    <string name="jamaica">Jamaica</string>
+    <string name="mexico">México</string>
+    <string name="saocristovaoenevis">São Cristovão e Névis</string>
+    <string name="saovicente">São Vicente</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="bandeira">Bandeira</string>
+    <string name="salvar">Salvar</string>
+</resources>
